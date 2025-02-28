@@ -1,0 +1,88 @@
+{
+  "productos": [
+    {
+      "id": "2",
+      "nombre": "Auriculares",
+      "categoria": "Tecnología",
+      "precio": 150
+    },
+    {
+      "id": "3",
+      "nombre": "Camiseta",
+      "categoria": "Ropa",
+      "precio": 25
+    },
+    {
+      "id": "4",
+      "nombre": "Cafetera",
+      "categoria": "Electrodomésticos",
+      "precio": 80.2
+    },
+    {
+      "id": "5",
+      "nombre": "Silla de oficina",
+      "categoria": "Muebles",
+      "precio": 200
+    },
+    {
+      "id": "6",
+      "nombre": "Zapatillas deportivas",
+      "categoria": "Calzado",
+      "precio": 90
+    },
+    {
+      "id": "7",
+      "nombre": "Libro: JavaScript Avanzado",
+      "categoria": "Libros",
+      "precio": 35
+    },
+    {
+      "id": "8",
+      "nombre": "Smartphone",
+      "categoria": "Tecnología",
+      "precio": 900
+    },
+    {
+      "id": "9",
+      "nombre": "Mochila",
+      "categoria": "Accesorios",
+      "precio": 45.99
+    },
+    {
+      "id": "10",
+      "nombre": "Reloj inteligente",
+      "categoria": "Tecnología",
+      "precio": 250
+    },
+    {
+      "id": "7a6a",
+      "nombre": "PC",
+      "categoria": "Informatica",
+      "precio": "123"
+    },
+    {
+      "id": "7c35",
+      "nombre": "Tostadora",
+      "categoria": "Electro",
+      "precio": "789"
+    },
+    {
+      "id": "2bdc",
+      "nombre": "PC",
+      "categoria": "Informatica",
+      "precio": "5465"
+    },
+    {
+      "id": "c281",
+      "nombre": "Lamprita",
+      "categoria": "Electro",
+      "precio": "5456"
+    },
+    {
+      "id": "7cb3",
+      "nombre": "PC",
+      "categoria": "Informatica",
+      "precio": 5465
+    }
+  ]
+}
